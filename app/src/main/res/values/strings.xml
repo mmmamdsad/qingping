@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">清屏</string>
+    <string name="accessibility_description">在用户明确开启后，检测部分界面中的广告相关文字线索并在本机记录。不会自动点击或关闭其他应用。</string>
+</resources>
